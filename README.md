@@ -19,5 +19,5 @@ Desenvolvedor iniciante, estudante de tecnologia.
 
 ---
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosdbastos&show_icons=true&theme=dark)
 
